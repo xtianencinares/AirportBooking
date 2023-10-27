@@ -66,7 +66,7 @@ void main()
 		getch();
 	} while (choice != 4);
 }
-// ************************GOOD LUCK MUFTI*****************************
+// ************************GOOD LUCK AGOO*****************************
 void details()
 {
 	printf("\n\t Enter your passport number:");
