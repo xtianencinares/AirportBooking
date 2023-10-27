@@ -162,7 +162,7 @@ void display()
 
 
 void cancel()
-{
+{ 
 	stream = begin;
 	system("cls");
 	char passport[6];
