@@ -25,7 +25,7 @@ void main()
 	begin = stream = NULL;
 	int num = 1;
 	do
-	{
+	{ 
 
 		printf("\n\n\t\t ==============================================");
 		printf("\n\t\t      Agoo  Airport Booking Management System      ");
