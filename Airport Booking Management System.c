@@ -14,7 +14,7 @@ struct mufti_airline
 	char email[15]; 
 	struct mufti_airline *following; 
 }
-*begin, *stream;
+*begin, *stream; 
 struct mufti_airline *dummy;
 
   
