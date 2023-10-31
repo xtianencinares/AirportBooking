@@ -36,7 +36,7 @@ void main()
 		printf("\n\n\t\t 3. Show Record");
 		printf("\n\n\t\t 4. Exit");
 		printf("\n\n\t\t Enter your choice :");
-
+ 
 
 		scanf("%d", &choice); fflush(stdin);
 		system("cls");
