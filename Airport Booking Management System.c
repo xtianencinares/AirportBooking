@@ -3,7 +3,7 @@
 #include<conio.h>
 #include<string.h>
 #include<Windows.h>
-  
+   
 
 struct mufti_airline
 {
