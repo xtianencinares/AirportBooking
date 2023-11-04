@@ -12,7 +12,7 @@ struct mufti_airline
         char destination[15];
 	int seat_num; 
 	char email[15]; 
-	struct mufti_airline *following; 
+	struct mufti_airline *following;  
 }
 *begin, *stream; 
 struct mufti_airline *dummy;
