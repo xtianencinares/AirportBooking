@@ -57,7 +57,7 @@ void main()
 				  savefile();
 				  break;
 		}
-		default:
+		default: 
 			printf("\n\n\t SORRY INVALID CHOICE!");
 			printf("\n\n\t PLEASE CHOOSE FROM 1-4");
 			printf("\n\n\t Do not forget to chose from 1-4");
