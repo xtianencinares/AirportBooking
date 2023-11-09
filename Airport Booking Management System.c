@@ -24,7 +24,7 @@ void main()
 	int choice;  
 	begin = stream = NULL;
 	int num = 1;
-	do
+	do 
 	{ 
 
 		printf("\n\n\t\t ==============================================");
