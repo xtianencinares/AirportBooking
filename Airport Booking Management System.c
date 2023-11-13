@@ -21,7 +21,7 @@ struct mufti_airline *dummy;
 void main()
 {
 	void reserve(int x), cancel(), display(), savefile();
-	int choice;  
+	int choice;       
 	begin = stream = NULL;
 	int num = 1;
 	do 
