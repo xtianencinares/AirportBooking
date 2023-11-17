@@ -63,7 +63,7 @@ void main()
 		getch();
 	} while (choice != 4);
 }
-// *********************GOOD LUCK AGOO**************************************
+// *********************GOOD LUCK AGOO**************************************//
 void details()
 {
 	printf("\n\t Enter your passport number:");
@@ -77,7 +77,7 @@ void details()
 }
 
 
-// ****************************GOOD LUCK AGOO*******************************
+// ****************************GOOD LUCK AGOO*******************************//
 void details();
 
 void reserve(int x)
