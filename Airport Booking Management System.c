@@ -17,7 +17,7 @@ struct mufti_airline
 struct mufti_airline *dummy;
 
   
-void main()
+void main() 
 {
 	void reserve(int x), cancel(), display(), savefile();
 	int choice;       
