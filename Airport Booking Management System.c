@@ -21,7 +21,7 @@ void main()
 {
 	void reserve(int x), cancel(), display(), savefile();
 	int choice;       
-	begin = stream = NULL;
+	begin = stream = NULL; 
 	int num = 1;
 	do  
 	{ 
