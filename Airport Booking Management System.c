@@ -81,7 +81,7 @@ void details()
 void details();
 
 void reserve(int x)
-{
+{  
 	stream = begin;
 	if (begin == NULL)
 	{
