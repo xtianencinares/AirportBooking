@@ -15,7 +15,7 @@ struct mufti_airline
 }      
 *begin, *stream;   
 struct mufti_airline *dummy;
-
+ 
    
 void main()  
 {
