@@ -31,7 +31,7 @@ void main()
 		printf("\n\n\n\t\t Please enter your choice from below (1-4):");
 		printf("\n\n\t\t 1. Make Reservation");
 		printf("\n\n\t\t 2. Cancel");
-		printf("\n\n\t\t 3. Show Record");
+		printf("\n\n\t\t 3. Show all Record");
 		printf("\n\n\t\t 4. Exit");
 		printf("\n\n\t\t Enter your choice :"); 
  
