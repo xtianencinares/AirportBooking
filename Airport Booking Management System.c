@@ -58,7 +58,7 @@ void main()
 		default: 
 			printf("\n\n\t SORRY INVALID CHOICE!");
 			printf("\n\n\t PLEASE CHOOSE FROM 1-4");
-			printf("\n\n\t Do not forget to chose from 1-4 only");
+			printf("\n\n\t  Note Do not forget to chose from 1-4 only");
 		}
 		getch();
 	} while (choice != 4);
