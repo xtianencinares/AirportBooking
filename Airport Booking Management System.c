@@ -40,7 +40,7 @@ void main()
 		system("cls");
 		switch (choice)
 		{
-		case 1:
+		case 1: 
 			reserve(num);
 			num++;
 			break;
