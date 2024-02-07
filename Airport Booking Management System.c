@@ -9,7 +9,7 @@ struct mufti_airline
 	char passport[6];
 	char name[15];    
         char destination[15]; 
-	int seat_num;    
+	int seat_num;     
 	char email[15]; 
 	struct mufti_airline *following;  
 }      
