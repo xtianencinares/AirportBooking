@@ -190,7 +190,7 @@ void cancel()
 		}
 		stream = stream->following;
 	}
-	printf("passport number is wrong please check your Agoo passport");
+	printf("passport number is wrong please check your Agoo or MSFT passport");
 
 }
 
