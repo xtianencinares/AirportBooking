@@ -26,7 +26,7 @@ void main()
 	do  
 	{ 
                 printf("\n\n\t\t ==============================================");
-		printf("\n\t\t     Agoo  Airport Booking Management System  v2.345 ");
+		printf("\n\t\t     Agoo  Airport Booking Management System  v2.40 ");
 		printf("\n\t\t =================================================");
 		printf("\n\n\n\t\t Please enter your choice from below (1-4):");
 		printf("\n\n\t\t 1. Make Reservation");
