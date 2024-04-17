@@ -16,7 +16,7 @@ struct mufti_airline
 *begin, *stream;
 struct mufti_airline *dummy;
  
-   
+    
 void main()   
 {
 	void reserve(int x), cancel(), display(), savefile();
