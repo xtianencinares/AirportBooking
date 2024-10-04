@@ -23,7 +23,7 @@ void main()
 	int choice;       
 	begin = stream = NULL;
 	int num = 1;
-	do  
+	do 
 	{ 
                 printf("\n\n\t\t ==============================================");
 		printf("\n\t\t     Agoo Airline MSFT Inc. V2.10  ");
