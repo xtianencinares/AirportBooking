@@ -26,7 +26,7 @@ void main()
 	do 
 	{ 
                 printf("\n\n\t\t ==============================================");
-		printf("\n\t\t     Agoo Airline MSFT Inc. V2.10  ");
+		printf("\n\t\t     Agoo Airline MSFT Inc. V3  ");
 		printf("\n\t\t =================================================");
 		printf("\n\n\n\t\t Please enter your choice from below (1-4):");
 		printf("\n\n\t\t 1. Make Reservation");
@@ -194,7 +194,7 @@ void cancel()
 
 }
 
-//Agoo
+//Agoo v3.0 BETA
 
 
 //******************this is an Agoo Inc Airport trial Software 2024 V1*****************//
