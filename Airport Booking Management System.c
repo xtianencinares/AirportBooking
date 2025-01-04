@@ -197,5 +197,5 @@ void cancel()
 //Agoo v3.0 BETA 12/07/2024
 
 
-//******************this is an Agoo Inc Airport trial Software 2024 V1*****************//
+//******************this is an Agoo Inc Airport trial Software*****************//
 //******************all rights reserved MTFS Inc.**1/04/2025**************//
