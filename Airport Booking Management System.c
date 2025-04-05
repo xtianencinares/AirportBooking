@@ -195,6 +195,7 @@ void cancel()
 }
 
 //Agoo v3.0 BETA 12/07/2024
+//Agoo V3 Inc. V3.5.2 Bet
 
 
 //******************this is an Agoo Inc Airport trial Software*****************//
